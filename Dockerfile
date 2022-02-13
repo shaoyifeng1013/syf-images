@@ -1,1 +1,1 @@
-FROM gcr.io/istio-release/distroless@sha256:bd5124f4b65bc6d00106841a0338508205356cbbc4e90a3151f33718fda2d0eb
+FROM gcr.io/istio-release/base@sha256:a25f0b1c28614865f1274b9d441cd54519f84697f37ed98d9336d28300ee2192
